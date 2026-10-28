@@ -10,4 +10,8 @@
     <ProjectReference Include="..\BIS.PAA\BIS.PAA.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <InternalsVisibleTo Include="BIS.P3D.Test" />
+  </ItemGroup>
+
 </Project>
